@@ -1,2 +1,3 @@
 [0919/095244.781:ERROR:file_io_win.cc(163)] Cr eateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
 [0919/101932.695:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0929/002803.701:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
