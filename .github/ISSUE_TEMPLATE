@@ -3,7 +3,7 @@
 name: "Template Name"
 about: "This temnplate is for testing"
 title: "TEST"
-ref: "main"
+ref: "master"
 labels:
 
 - bug
