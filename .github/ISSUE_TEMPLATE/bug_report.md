@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "This commit have hash: {current-commit-id}"
+title: "{raw-url}"
 labels: ''
 assignees: ''
 
